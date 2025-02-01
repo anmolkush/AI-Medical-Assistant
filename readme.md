@@ -31,7 +31,7 @@ An intelligent medical information system built using RAG (Retrieval Augmented G
 
 ### Database
 - Pinecone Vector DB
-- FAISS (Local Vector Store)
+
 
 ## 📋 Prerequisites
 ```bash
